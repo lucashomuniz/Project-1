@@ -18,21 +18,21 @@ In the "Overview" part we have scatterplots based on six variables.
 
 ![Screenshot 2023-06-10 at 12 45 10](https://github.com/lucashomuniz/Project-1/assets/123151332/065f4632-cedd-432a-bd23-5570b1b00c2e)
 
-The first variable represents Netflix Revenue in the year 2021 based on GDP (USD). As the GDP of the country where Netflix is present increases, revenue also increases. In theory it is totally predictable, however, the predictable also needs to be explained. It is important to remember that it is not enough to catalog a statement as predictable or obvious, it is strictly necessary to develop the analysis to validate the statement. 
+The First Variable represents Netflix Revenue in the year 2021 based on GDP (USD). As the GDP of the country where Netflix is present increases, revenue also increases. In theory it is totally predictable, however, the predictable also needs to be explained. It is important to remember that it is not enough to catalog a statement as predictable or obvious, it is strictly necessary to develop the analysis to validate the statement. 
 
 Sequentially, that a small button was developed, which represents the addition of Outliers within the chart. It was chosen to insert it as an optional item due to the fact that it will be up to the user to use this information or not. With that, when we analyze the Outliers, it is seen that the United States of America has absurd numbers, incredibly high, completely fleeing the pattern of other countries. In this case, the Outlier is not necessarily a problem or an error. This is totally valid data, without any kind of problem, but because it is an incredibly high value, it tends to affect the analysis of other countries.
 
-The second variable represents the number of Netflix Subscriptions in the year 2021. Similar to the previous one, as the country's GDP increases, the number of subscriptions also increases.
+The Second Variable represents the number of Netflix Subscriptions in the year 2021. Similar to the previous one, as the country's GDP increases, the number of subscriptions also increases.
 
-The third variable is Total Catalog Size. It is possible to see that there is no relationship with the country's GDP. Countries with a high number of films and series in the catalog do not necessarily have a high GDP.
+The Third Variable is Total Catalog Size. It is possible to see that there is no relationship with the country's GDP. Countries with a high number of films and series in the catalog do not necessarily have a high GDP.
 
-The fourth, fifth and sixth variable are Basic, Standard and Premium Subscription Pricing. Similar to the previous variable, they do not show a direct relationship with GDP.
+The Fourth, Fifth and Sixth Variable are Basic, Standard and Premium Subscription Pricing. Similar to the previous variable, they do not show a direct relationship with GDP.
 
 In the "Wage Inequality" section, we have a bar chart based on the comparison between Social Inequality and the Difference in Prices for Basic, Standard and Premium Subscriptions. With this, we can analyze that there is not a very high disparity between these variables.
 
 ![Screenshot 2023-06-10 at 12 45 31](https://github.com/lucashomuniz/Project-1/assets/123151332/89e7a6b4-b348-4b0e-8c76-9df4303331b4)
 
-In the Popular Genres part we have a tree-map chart. This section of the WebApp, as the name implies, shows the main movie genres in each country. In Brazil, for example, the genres of Drama/Comedy/Adventure/Action are the main ones chosen by the audience.
+In the "Popular Genres" part we have a tree-map chart. This section of the WebApp, as the name implies, shows the main movie genres in each country. In Brazil, for example, the genres of Drama/Comedy/Adventure/Action are the main ones chosen by the audience.
 
 ![Screenshot 2023-06-10 at 12 45 53](https://github.com/lucashomuniz/Project-1/assets/123151332/9ca99cd5-e0d6-432e-9897-e21c7d8d80ec)
 
