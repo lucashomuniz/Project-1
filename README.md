@@ -16,7 +16,7 @@ It is basically a WebApp (Interactive Dashboards), developed in R language with 
 
 In the "Overview" part we have scatterplots based on six variables.
 
-![Screenshot 2023-06-10 at 12 45 10](https://github.com/lucashomuniz/Project-1/assets/123151332/065f4632-cedd-432a-bd23-5570b1b00c2e)
+![Screenshot 2023-06-10 at 14 21 38](https://github.com/lucashomuniz/Project-1/assets/123151332/9bf615ea-ee2b-4f41-996c-8e5293c6af6e)
 
 The First Variable represents Netflix Revenue in the year 2021 based on GDP (USD). As the GDP of the country where Netflix is present increases, revenue also increases. In theory it is totally predictable, however, the predictable also needs to be explained. It is important to remember that it is not enough to catalog a statement as predictable or obvious, it is strictly necessary to develop the analysis to validate the statement. 
 
@@ -30,15 +30,15 @@ The Fourth, Fifth and Sixth Variable are Basic, Standard and Premium Subscriptio
 
 In the "Wage Inequality" section, we have a bar chart based on the comparison between Social Inequality and the Difference in Prices for Basic, Standard and Premium Subscriptions. With this, we can analyze that there is not a very high disparity between these variables.
 
-![Screenshot 2023-06-10 at 12 45 31](https://github.com/lucashomuniz/Project-1/assets/123151332/89e7a6b4-b348-4b0e-8c76-9df4303331b4)
+![Screenshot 2023-06-10 at 14 22 25](https://github.com/lucashomuniz/Project-1/assets/123151332/449770c5-46b0-41b1-bd93-39fc25293c62)
 
 In the "Popular Genres" part we have a tree-map chart. This section of the WebApp, as the name implies, shows the main movie genres in each country. In Brazil, for example, the genres of Drama/Comedy/Adventure/Action are the main ones chosen by the audience.
 
-![Screenshot 2023-06-10 at 12 45 53](https://github.com/lucashomuniz/Project-1/assets/123151332/9ca99cd5-e0d6-432e-9897-e21c7d8d80ec)
+![Screenshot 2023-06-10 at 14 22 41](https://github.com/lucashomuniz/Project-1/assets/123151332/7281224b-8cc2-4742-9ca1-87fffa4532d3)
 
 In the last part, we have "Netlfix Subscribers". Which shows a global map associated with a color map, illustrating how the Billing and Subscription variables behave in each country on the planet. Finally, we have a last scatter plot illustrating the relationship between Billing and Subscriptions, where it is. possible to identify a positive relationship. As the number of new subscribers increases, the total billing value also increases.
 
-![Screenshot 2023-06-10 at 12 46 14](https://github.com/lucashomuniz/Project-1/assets/123151332/9b959291-8eb2-49e4-8305-418c5d9e3aca)
+![Screenshot 2023-06-10 at 14 22 45](https://github.com/lucashomuniz/Project-1/assets/123151332/4918d85f-3f96-4d82-9147-4ca7ee60024f)
 
 As a final result, the WebApp allows you to perform an analysis quickly, usefully and professionally. Fully fulfilling its purpose. In this way, you can make decisions based on data.
 
