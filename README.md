@@ -21,6 +21,8 @@ It is basically a WebApp (Interactive Dashboards), developed in R language with 
 
 In the "Overview" part we have scatterplots based on six variables.
 
+![Screenshot 2023-06-10 at 12 10 14](https://github.com/lucashomuniz/Project-1/assets/123151332/3836d88d-febb-488c-b8d6-19a9c9aa686f)
+
 The first variable represents Netflix Revenue in the year 2021 based on GDP (USD). As the GDP of the country where Netflix is present increases, revenue also increases. In theory it is totally predictable, however, the predictable also needs to be explained. It is important to remember that it is not enough to catalog a statement as predictable or obvious, it is strictly necessary to develop the analysis to validate the statement. It is important to point out that a small button was developed, which represents the addition of Outliers within the chart. It was chosen to insert it as an optional item due to the fact that it will be up to the user to use this information or not. With that, when we analyze the Outliers, it is seen that the United States of America has absurd numbers, incredibly high, completely fleeing the pattern of other countries. In this case, the Outlier is not necessarily a problem or an error. This is totally valid data, without any kind of problem, but because it is an incredibly high value, it tends to affect the analysis of other countries.
 
 The second variable represents the number of Netflix Subscriptions in the year 2021. Similar to the previous one, as the country's GDP increases, the number of subscriptions also increases.
