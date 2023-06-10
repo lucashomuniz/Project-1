@@ -2,8 +2,6 @@
 
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-INTRO:
-
 The goal of this project is to handle data from seven distinct sources. The primary objective is to analyse, clean, organize, and merge the data, resulting on the development of an analytical dashboard web application. The focus is to comprehend the correlation between Netflix's revenues, GDP and indicators of social inequality in the countries where Netflix operates, encompassing various other analyses. Of the seven Originals Datasets, six will be attached, however one of them will need to be downloaded "title.basics.tsv.gz" from https://datasets.imdbws.com, then rename it to "dados_IMDB.tsv".
 
 Originals Datasets: dados_IMDB.tsv, assinantes_netflix_jul_2021, dados_desigualdade_salarial_harvard, dados_netflix_Dec_2021, dados_world_bank, top_10_shows_netflix, wikipedia-iso-country-codes
@@ -14,8 +12,6 @@ It is important to remember that all data used in this project are completely re
 Keywords:  R Language, Big Data, Data Analysis, Web App, Shiny Library, GDP, Social Inequality, Billing, Growth, Netflix.
 
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-CONCLUSION:
 
 It is basically a WebApp (Interactive Dashboards), developed in R language with the help of the Shiny library.
 
