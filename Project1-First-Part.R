@@ -43,9 +43,9 @@ countrycode <- read.csv("datasets_originais/wikipedia-iso-country-codes.csv")
 View(countrycode)
 
 "
-===================================================
-LIMPEZA E PREPARAÇÃO DO PRIMEIRO DATASET COMBINADO
-===================================================
+=======================================================
+CLEANING AND PREPARATION OF THE FIRST COMBINED DATA SET
+=======================================================
 "
 # Create a column with the difference data for the bar chart (standard plan - basic plan)
 dados_netflix$basic_standard_diff = (dados_netflix$Cost.Per.Month...Standard.... - dados_netflix$Cost.Per.Month...Basic....)
