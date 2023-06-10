@@ -8,7 +8,7 @@ Originals Datasets: dados_IMDB.tsv, assinantes_netflix_jul_2021, dados_desiguald
 
 Cleaned Datasets: dataset1.csv, dataset2.csv, dataset3.csv, dataset4.csv, dataset5.csv, dataset6.csv
 
-Keywords:  R Language, Big Data, Data Analysis, Web App, Shiny Library, GDP, Social Inequality, Billing, Growth, Netflix.
+Keywords:  R Language, Big Data, Data Analysis, Web App, Shiny Library, GDP, Social Inequality, Revenue, Growth, Netflix.
 
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
