@@ -21,7 +21,7 @@ It is basically a WebApp (Interactive Dashboards), developed in R language with 
 
 In the "Overview" part we have scatterplots based on six variables.
 
-![Screenshot 2023-06-10 at 12 10 14](https://github.com/lucashomuniz/Project-1/assets/123151332/3836d88d-febb-488c-b8d6-19a9c9aa686f)
+![Screenshot 2023-06-10 at 12 45 10](https://github.com/lucashomuniz/Project-1/assets/123151332/065f4632-cedd-432a-bd23-5570b1b00c2e)
 
 The first variable represents Netflix Revenue in the year 2021 based on GDP (USD). As the GDP of the country where Netflix is present increases, revenue also increases. In theory it is totally predictable, however, the predictable also needs to be explained. It is important to remember that it is not enough to catalog a statement as predictable or obvious, it is strictly necessary to develop the analysis to validate the statement. It is important to point out that a small button was developed, which represents the addition of Outliers within the chart. It was chosen to insert it as an optional item due to the fact that it will be up to the user to use this information or not. With that, when we analyze the Outliers, it is seen that the United States of America has absurd numbers, incredibly high, completely fleeing the pattern of other countries. In this case, the Outlier is not necessarily a problem or an error. This is totally valid data, without any kind of problem, but because it is an incredibly high value, it tends to affect the analysis of other countries.
 
@@ -33,15 +33,15 @@ The fourth, fifth and sixth variable are Basic, Standard and Premium Subscriptio
 
 In the "Wage Inequality" section, we have a bar chart based on the comparison between Social Inequality and the Difference in Prices for Basic, Standard and Premium Subscriptions. With this, we can analyze that there is not a very high disparity between these variables.
 
-![Screenshot 2023-06-10 at 12 11 09](https://github.com/lucashomuniz/Project-1/assets/123151332/a88d5641-f3c0-4528-a501-b858d36d117d)
+![Screenshot 2023-06-10 at 12 45 31](https://github.com/lucashomuniz/Project-1/assets/123151332/89e7a6b4-b348-4b0e-8c76-9df4303331b4)
 
 In the Popular Genres part we have a tree-map chart. This section of the WebApp, as the name implies, shows the main movie genres in each country. In Brazil, for example, the genres of Drama/Comedy/Adventure/Action are the main ones chosen by the audience.
 
-![Screenshot 2023-06-10 at 12 11 36](https://github.com/lucashomuniz/Project-1/assets/123151332/b50c9726-f1bb-46b2-adef-f2df6e42b4d5)
+![Screenshot 2023-06-10 at 12 45 53](https://github.com/lucashomuniz/Project-1/assets/123151332/9ca99cd5-e0d6-432e-9897-e21c7d8d80ec)
 
 In the last part, we have "Netlfix Subscribers". Which shows a global map associated with a color map, illustrating how the Billing and Subscription variables behave in each country on the planet. Finally, we have a last scatter plot illustrating the relationship between Billing and Subscriptions, where it is. possible to identify a positive relationship. As the number of new subscribers increases, the total billing value also increases.
 
-![Screenshot 2023-06-10 at 12 11 57](https://github.com/lucashomuniz/Project-1/assets/123151332/1e732d76-fcd7-4c99-b5d7-2b25d9e9cdd5)
+![Screenshot 2023-06-10 at 12 46 14](https://github.com/lucashomuniz/Project-1/assets/123151332/9b959291-8eb2-49e4-8305-418c5d9e3aca)
 
 As a final result, the WebApp allows you to perform an analysis quickly, usefully and professionally. Fully fulfilling its purpose. In this way, you can make decisions based on data.
 
@@ -49,14 +49,14 @@ As a final result, the WebApp allows you to perform an analysis quickly, usefull
 
 DATASETS SOURCES:
 
-Dados da Netflix: https://www.comparitech.com/blog/vpn-privacy/countries-netflix-cost/
+Netflix Data: https://www.comparitech.com/blog/vpn-privacy/countries-netflix-cost/
 
-Dados do PIB: https://data.worldbank.org/indicator/
+GDP Data: https://data.worldbank.org/indicator/
 
-Dataset da Desigualdade Salarial: https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/LM4OWF
+Wage Inequality Dataset: https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/LM4OWF
 
 Top 10 Netflix: https://top10.netflix.com/
 
-Dados de Assinantes da Netflix: https://www.comparitech.com/tv-streaming/netflix-subscribers/
+Netflix Subscriber Data: https://www.comparitech.com/tv-streaming/netflix-subscribers/
 
-Dados de Country Code: https://www.kaggle.com/andradaolteanu/iso-country-codes-global
+Country Code Data: https://www.kaggle.com/andradaolteanu/iso-country-codes-global
