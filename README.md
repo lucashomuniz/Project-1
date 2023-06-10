@@ -33,9 +33,15 @@ The fourth, fifth and sixth variable are Basic, Standard and Premium Subscriptio
 
 In the "Wage Inequality" section, we have a bar chart based on the comparison between Social Inequality and the Difference in Prices for Basic, Standard and Premium Subscriptions. With this, we can analyze that there is not a very high disparity between these variables.
 
+![Screenshot 2023-06-10 at 12 11 09](https://github.com/lucashomuniz/Project-1/assets/123151332/a88d5641-f3c0-4528-a501-b858d36d117d)
+
 In the Popular Genres part we have a tree-map chart. This section of the WebApp, as the name implies, shows the main movie genres in each country. In Brazil, for example, the genres of Drama/Comedy/Adventure/Action are the main ones chosen by the audience.
 
+![Screenshot 2023-06-10 at 12 11 36](https://github.com/lucashomuniz/Project-1/assets/123151332/b50c9726-f1bb-46b2-adef-f2df6e42b4d5)
+
 In the last part, we have "Netlfix Subscribers". Which shows a global map associated with a color map, illustrating how the Billing and Subscription variables behave in each country on the planet. Finally, we have a last scatter plot illustrating the relationship between Billing and Subscriptions, where it is. possible to identify a positive relationship. As the number of new subscribers increases, the total billing value also increases.
+
+![Screenshot 2023-06-10 at 12 11 57](https://github.com/lucashomuniz/Project-1/assets/123151332/1e732d76-fcd7-4c99-b5d7-2b25d9e9cdd5)
 
 As a final result, the WebApp allows you to perform an analysis quickly, usefully and professionally. Fully fulfilling its purpose. In this way, you can make decisions based on data.
 
