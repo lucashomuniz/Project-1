@@ -36,7 +36,7 @@ In the "Popular Genres" part we have a tree-map chart. This section of the WebAp
 
 ![Screenshot 2023-06-10 at 14 22 41](https://github.com/lucashomuniz/Project-1/assets/123151332/7281224b-8cc2-4742-9ca1-87fffa4532d3)
 
-In the last part, we have "Netlfix Subscribers". Which shows a global map associated with a color map, illustrating how the Billing and Subscription variables behave in each country on the planet. Finally, we have a last scatter plot illustrating the relationship between Billing and Subscriptions, where it is. possible to identify a positive relationship. As the number of new subscribers increases, the total billing value also increases.
+In the last part, we have "Netlfix Subscribers". Which shows a global map associated with a color map, illustrating how the Revenue and Subscription variables behave in each country on the planet. Finally, we have a last scatter plot illustrating the relationship between Revenue and Subscriptions, where it is. possible to identify a positive relationship. As the number of new subscribers increases, the total billing value also increases.
 
 ![Screenshot 2023-06-10 at 14 22 45](https://github.com/lucashomuniz/Project-1/assets/123151332/4918d85f-3f96-4d82-9147-4ca7ee60024f)
 
