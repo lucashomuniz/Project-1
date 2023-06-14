@@ -8,7 +8,7 @@ Cleaned Datasets: dataset1.csv, dataset2.csv, dataset3.csv, dataset4.csv, datase
 
 Keywords:  R Language, Big Data, Data Analysis, Web App, Shiny Library, GDP, Social Inequality, Revenue, Growth, Netflix.
 
-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+# PROCESS
 
 It is basically a WebApp (Interactive Dashboards), developed in R language with the help of the Shiny library.
 
@@ -40,9 +40,7 @@ In the last part, we have "Netlfix Subscribers". Which shows a global map associ
 
 As a final result, the WebApp allows you to perform an analysis quickly, usefully and professionally. Fully fulfilling its purpose. In this way, you can make decisions based on data.
 
-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-DATASETS SOURCES:
+# DATASETS SOURCES:
 
 Netflix Data: https://www.comparitech.com/blog/vpn-privacy/countries-netflix-cost/
 
