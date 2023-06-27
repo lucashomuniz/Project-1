@@ -38,7 +38,13 @@ In the last part, we have "Netlfix Subscribers". Which shows a global map associ
 
 ![Screenshot 2023-06-10 at 14 22 45](https://github.com/lucashomuniz/Project-1/assets/123151332/4918d85f-3f96-4d82-9147-4ca7ee60024f)
 
-As a final result, the WebApp allows you to perform an analysis quickly, usefully and professionally. Fully fulfilling its purpose. In this way, you can make decisions based on data.
+# ✅ CONCLUSION
+
+The WebApp developed in this project, is a powerful tool that enables users to conduct data analysis efficiently and effectively. With its user-friendly interface and robust features, the WebApp streamlines the analysis process, allowing users to save time and effort. By providing quick access to data insights, the WebApp empowers users to make informed decisions promptly. 
+
+By enabling users to perform analyses quickly and efficiently, the WebApp enhances the usefulness of the results. It allows users to explore complex datasets and uncover patterns, trends, and correlations that may not be immediately apparent. The WebApp's visualization capabilities play a crucial role in presenting data in a visually appealing and intuitive manner, facilitating better understanding and interpretation. By providing actionable insights, the WebApp empowers users to make data-driven decisions that have a significant impact on their work, projects, or business strategies.
+
+In summary, the WebApp serves as a valuable tool for professionals seeking to perform analysis tasks swiftly, efficiently, and professionally. By combining speed, automation, and intuitive features, the WebApp supports users in extracting insights from data and making informed decisions based on these findings.
 
 # ✅ DATASETS SOURCES:
 
